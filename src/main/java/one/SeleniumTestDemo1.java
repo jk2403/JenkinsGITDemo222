@@ -18,7 +18,7 @@ public class SeleniumTestDemo1 {
 		driver.get("https://www.google.co.in");
 		System.out.println("======Test Initiated Successfully==========");
 		
-		System.out.println("============="+driver.getTitle()+"=========");
+		System.out.println("=============Open Web Page Title: "+driver.getTitle()+"=========");
 		
 		driver.quit();
 		System.out.println("======Test Completed Successfully==========");
