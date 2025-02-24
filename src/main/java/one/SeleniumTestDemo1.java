@@ -22,15 +22,15 @@ public class SeleniumTestDemo1 {
 		String title = driver.getTitle();
 		if(title=="Google")
 		{
-			System.out.println("Title matches-24 Feb 2025");
+			System.out.println("Title matches-24 Feburary 2025");
 		}
 		
 		if(title.equals("Google"))
 		{
-			System.out.println("Title matches-24Feb2025");
+			System.out.println("Title matches-24Feburary2025");
 		}
 		driver.quit();
-		System.out.println("======Test Completed Successfully on 24 Feb 2025==========");
+		System.out.println("======Test Completed Successfully on 24 Feburary 2025==========");
 	}
 
 }
