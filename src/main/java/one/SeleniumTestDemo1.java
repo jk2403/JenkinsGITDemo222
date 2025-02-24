@@ -19,9 +19,18 @@ public class SeleniumTestDemo1 {
 		System.out.println("======Test Initiated Successfully==========");
 		
 		System.out.println("=============Open Web Page Title: "+driver.getTitle()+"=========");
+		String title = driver.getTitle();
+		if(title=="Google")
+		{
+			System.out.println("Title matches");
+		}
 		
+		if(title.equals("Google"))
+		{
+			System.out.println("Title matches");
+		}
 		driver.quit();
-		System.out.println("======Test Completed Successfully==========");
+		System.out.println("======Test Completed Successfully on 24Feb2025==========");
 	}
 
 }

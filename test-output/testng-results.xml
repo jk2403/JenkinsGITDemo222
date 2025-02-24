@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-07-25T11:46:37 IST" name="Suite" finished-at="2024-07-25T11:46:48 IST" duration-ms="11422">
+  <suite started-at="2024-12-17T14:09:44 IST" name="Default suite" finished-at="2024-12-17T14:09:50 IST" duration-ms="5994">
     <groups>
     </groups>
-    <test started-at="2024-07-25T11:46:37 IST" name="Test" finished-at="2024-07-25T11:46:48 IST" duration-ms="11422">
+    <test started-at="2024-12-17T14:09:44 IST" name="Default test" finished-at="2024-12-17T14:09:50 IST" duration-ms="5994">
       <class name="one.SeleniumTestDemo1">
-        <test-method signature="testNGDemo()[pri:0, instance:one.SeleniumTestDemo1@31ea9581]" started-at="2024-07-25T11:46:37 IST" name="testNGDemo" finished-at="2024-07-25T11:46:48 IST" duration-ms="11264" status="PASS">
+        <test-method signature="testNGDemo()[pri:0, instance:one.SeleniumTestDemo1@31ea9581]" started-at="2024-12-17T14:09:44 IST" name="testNGDemo" finished-at="2024-12-17T14:09:50 IST" duration-ms="5927" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testNGDemo -->
       </class> <!-- one.SeleniumTestDemo1 -->
-    </test> <!-- Test -->
-  </suite> <!-- Suite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>
